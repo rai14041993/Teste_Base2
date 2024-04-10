@@ -10,5 +10,9 @@
  Baixe o ChromeDriver para a versão do Chrome que você está usando ou baixe o Driver do navegador de sua preferência. </br>
  Extraia o arquivo baixado para uma pasta de sua escolha. </br>
 
-2. Dicas e Recursos: </br>
+2. Executando os Testes: </br>
+ a. Execute o arquivo <b>Teste_Base2.cs</b> no Visual Studio. </br>
+A saída do teste será exibida no console do Visual Studio. </br>
+
+4. Dicas e Recursos: </br>
  Utilize o site oficial do Selenium para obter mais informações sobre a ferramenta: https://www.selenium.dev/. </br>
